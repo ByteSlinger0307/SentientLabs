@@ -784,5 +784,8 @@ summary::marker{
     nav button{
         display: none;
     }
+    .nav-part2 a{
+        font-size: 2.5vw;
+    }
 
 }
