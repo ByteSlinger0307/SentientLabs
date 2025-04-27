@@ -767,7 +767,7 @@ summary::marker{
     background-color: #111;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1024px) {
     nav  h1{
         padding-top: 3vh;
         font-size: 3.5vw;
