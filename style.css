@@ -781,5 +781,8 @@ summary::marker{
     .talk-button{
         display: none;
     }
+    nav button{
+        display: none;
+    }
 
 }
