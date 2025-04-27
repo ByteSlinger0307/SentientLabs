@@ -20,7 +20,7 @@ nav{
     position: fixed;
     display: flex;
     align-items: center;
-    width: 100%;
+    width: 100vw;
     padding: 2vw 10vw;
     justify-content: space-between;
     background-color: #111;
