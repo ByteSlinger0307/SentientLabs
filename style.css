@@ -769,6 +769,16 @@ summary::marker{
 
 @media (max-width: 768px) {
     nav  h1{
-        font-size: 3vw;
+        padding-top: 3vh;
+        font-size: 3.5vw;
+    }
+    .nav-part2{
+        padding-top: 3vh;
+    }
+    .nav-part2 a{
+        font-size: 2vw;
+    }
+    nav button{
+        display: none;
     }
 }
