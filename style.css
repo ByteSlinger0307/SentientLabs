@@ -778,7 +778,8 @@ summary::marker{
     .nav-part2 a{
         font-size: 2vw;
     }
-    nav button{
+    .talk-button{
         display: none;
     }
+
 }
