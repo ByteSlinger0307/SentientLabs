@@ -1,0 +1,28 @@
+.word {
+  display: inline-block;
+  transform: translateY(100px);
+  opacity: 0;
+}
+
+.hero-title .word {
+  animation: none;
+}
+
+.navigation {
+  z-index: 50;
+}
+
+.cursor {
+  z-index: 9999;
+}
+
+* {
+  transition-property: background-color, border-color, color, fill, stroke;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-duration: 150ms;
+}
+
+.antialiased {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
